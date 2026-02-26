@@ -42,6 +42,8 @@
 </td>
     <td>
 
+<picture> <img align="right" src="img/totoro.gif" width = 100px></picture>
+
 <a href="#">
   <img width="100%" align="center" src="https://gh-rs.vercel.app/api/top-langs?username=HumDavid&theme=algolia&show_icons=true&bg_color=00000000&title_color=cc7acc&text_color=777&layout=compact" />
 </a>
