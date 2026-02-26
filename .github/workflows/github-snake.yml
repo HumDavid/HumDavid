@@ -30,5 +30,7 @@ jobs:
         with:
           target_branch: output       # Please don't make changes to the main branch, because doing so will erase all previous changes. This has happened to me twice before.
           build_dir: dist
+          commit_message: "Update snake animation"
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
