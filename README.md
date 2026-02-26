@@ -41,15 +41,16 @@
 
 </td>
     <td>
-  
-## 📄📜 Stats [Dynamic🚀]
+
+<a href="#">
+  <img width="100%" align="center" src="https://gh-rs.vercel.app/api/top-langs?username=HumDavid&theme=algolia&show_icons=true&bg_color=00000000&title_color=cc7acc&text_color=777&layout=compact" />
+</a>
+
+<h3 align="center">Stats</h3>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=HumDavid&theme=algolia&show_icons=true&bg_color=00000000&title_color=cc7acc&text_color=777" />
- </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumDavid&background=00000000&hide_border=true&theme=highcontrast&currStreakNum=777&sideNums=777&stroke=777&dates=777&sideLabels=777"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumDavid&exclude_repo=Portfolio,HomePal,Problem-Solving-Techniques,micro-os&langs_count=10&layout=compact&bg_color=00000000&size_weight=0.5&count_weight=0.5&title_color=a956d1" />
 </p>
      
   </td>
