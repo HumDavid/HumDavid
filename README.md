@@ -58,3 +58,9 @@
   </td>
  </tr>
 </table>
+
+<br>
+
+<hr>
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/HumDavid/HumDavid/output/github-contribution-grid-snake-dark.svg)
