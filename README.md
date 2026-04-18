@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋, I'm David</h2>
 
-<picture> <img align="right" src="img/cowboybebop.gif" width = 1000px></picture>
-
 </details>
 </br>
 
@@ -11,24 +9,26 @@
  <tr>
     <td width="60%">
      
+<picture> <img align="center" src="img/cowboybebop.gif" width = 800px></picture>
+     
 ## 🛠️ Skills
 
 #### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,&perline=6)](https://skillicons.dev)
 
 #### Engines & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=unity,spring,fastapi,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,spring,fastapi,&perline=6)](https://skillicons.dev)
      
    
 #### Database / Backend
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,supabase,mongodb,postgres,prisma,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,supabase,mongodb,postgres,prisma,&perline=6)](https://skillicons.dev)
 
 #### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,discord,docker,notion,npm,yarn,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,discord,docker,notion,npm,yarn,&perline=6)](https://skillicons.dev)
 
 </td>
     <td>
