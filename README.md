@@ -12,7 +12,7 @@
 
 #### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,ts,python,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,&perline=8)](https://skillicons.dev)
 
 #### Engines & Frameworks
 
