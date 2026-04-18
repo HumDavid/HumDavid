@@ -1,7 +1,10 @@
 <h2 align="center">Hi 👋, I'm David</h2>
 
+<picture> <img align="right" src="img/cowboybebop.gif" width = 1000px></picture>
+
 </details>
 </br>
+
 
 <table width="100%" >
 
@@ -12,25 +15,25 @@
 
 #### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,&perline=4)](https://skillicons.dev)
 
 #### Engines & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=unity,spring,fastapi,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,spring,fastapi,&perline=4)](https://skillicons.dev)
      
    
 #### Database / Backend
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,supabase,mongodb,postgres,prisma,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,supabase,mongodb,postgres,prisma,&perline=4)](https://skillicons.dev)
 
 #### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,discord,docker,notion,npm,yarn,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,discord,docker,notion,npm,yarn,&perline=4)](https://skillicons.dev)
 
 </td>
     <td>
 
-<picture> <img align="right" src="img/totoro.gif" width = 100px></picture>
+<picture> <img align="center" src="img/car-night.gif" width = 350px></picture>
 
 <a href="#">
   <img width="100%" align="center" src="https://gh-rs.vercel.app/api/top-langs?username=HumDavid&theme=algolia&show_icons=true&bg_color=00000000&title_color=cc7acc&text_color=777&layout=compact" />
@@ -42,6 +45,8 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumDavid&background=00000000&hide_border=true&theme=highcontrast&currStreakNum=777&sideNums=777&stroke=777&dates=777&sideLabels=777"/>
  </br>
 </p>
+
+<picture> <img align="right" src="img/sunset-city.gif" width = 350px></picture>
      
   </td>
  </tr>
