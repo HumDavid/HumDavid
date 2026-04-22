@@ -15,7 +15,7 @@
 
 #### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,&perline=6)](https://skillicons.dev)
 
 #### Engines & Frameworks
 
@@ -24,11 +24,11 @@
    
 #### Database / Backend
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,supabase,mongodb,postgres,prisma,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,supabase,prisma,&perline=6)](https://skillicons.dev)
 
 #### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,discord,docker,notion,npm,yarn,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,discord,npm,yarn,&perline=6)](https://skillicons.dev)
 
 </td>
     <td>
